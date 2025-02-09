@@ -10,7 +10,7 @@ namespace summ
     {
         static void Main(string[] args)
         {
-            int a = 5;
+            int a = 3;
             int b = 6;
             Console.WriteLine(a + b);
             Console.ReadKey();
